@@ -9,6 +9,3 @@
 2. Run `npm install`
 3. Create `.env` file from copy the example env
 4. Run `npm run dev` for start the server
-
-## Who are in the team
-: Freza Ridho (BE) and Michele Jeremia (FE)
